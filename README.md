@@ -6,7 +6,7 @@ The aim of the project is to understand how GitHub Actions work and how it is us
 - Created a workflow file inside the .github/ .workflows /
 - Created & Configured the .yml file.
 - Used the event trigger as push and runner environment as ubuntu-latest.
-- Added a .py script to test teh workflow.
+- Added a .py script to test the workflow.
 - Introduced errors in the .py script to test the failure detection.
 
 ## Key Learnings:
